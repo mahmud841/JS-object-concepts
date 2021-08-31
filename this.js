@@ -29,5 +29,5 @@ function add() {
 
 
 //What is window in JS: 
-// arrow function nijer this er value ke hold kor erakte pare na 
+// arrow function nijer this er value ke hold kor erakte pare na .arrow function er nijer this hoina 
 //this hosse execution context .change hoi execution er opor depend kore 

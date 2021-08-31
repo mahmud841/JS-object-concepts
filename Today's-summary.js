@@ -15,12 +15,13 @@ for (const key in pen) {
 const a = { a: 1 };
 const b = { a: 1 };
 const c = a;
+//reference same hole same bolbe nahole bolbe na 
 
 if (a === b) {
 
 }
-// optional
+// optional part 
 const aBounded = pen.writePoem.bind(a);
 aBounded();
 
-// this
+// this niye onek vejal ase .pera ase 
