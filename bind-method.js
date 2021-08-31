@@ -29,4 +29,4 @@ mahmud.treatDey(400);
 const normalTreatDey = mahmud.treatDey.bind(golamKhan);
 normalTreatDey(2000);
 
-// kono akta object er jodi kono akta method thake tahole ami onno object er jonne seita use korte parbo . bind kokre baki argument pass  korar maddhome
+// kono akta object er jodi kono akta method thake tahole ami onno object er jonne seita use korte parbo . bind kokle baki argument pass  korar maddhome
