@@ -27,6 +27,9 @@ for (const [key, value] of Object.entries(bottle)) {
     console.log(key, value);
 }
 
+//js a array one kind of object . for in diye loop korle akata value diye
+// kono akta object er property diye jodi loop calaite cai tahole for in use kortehobe    
+
 // 
 // const arr = ['color', 'jeans', 'tom']
 // arr['color']
